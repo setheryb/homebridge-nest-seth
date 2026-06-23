@@ -37,7 +37,7 @@
     "prepublishOnly": "npm run lint",
     "preversion": "npm run lint"
   },
-  "version": "4.6.9-seth.2",
+  "version": "4.6.9-seth.3",
   "warnings": [
     {
       "code": "ENOTSUP",
